@@ -1,7 +1,6 @@
 <h2 align="center">Hi there 👋 I'm Dylan Insixiengmay</h2>
 
 ## 💫 About Me:
----
 I am a senior Computer Science student at Wichita State University, passionate about exploring the realms of coding and building robust applications.
 
 <!--
